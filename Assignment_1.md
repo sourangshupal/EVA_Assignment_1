@@ -299,3 +299,8 @@ The value of the loss is then passed backwards through these filters and used to
 Then kernel values are updated via **backpropagation** while training.
 
 This way the value of the filters are adjusted during training and the network will converge better and the loss will be minimized.
+
+
+
+
+#### TSAI Coursework
